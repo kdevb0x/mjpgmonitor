@@ -4,7 +4,7 @@
 
 /* Package mjpgmon is a simple gui to view mjpeg streams from url. */
 
-package mjpgmonitor
+package main
 
 import (
 	"image"
