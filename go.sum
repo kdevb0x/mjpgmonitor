@@ -1,0 +1,15 @@
+bitbucket.org/rj/assert v0.0.0-20180921173725-81923a7f0f2a h1:cIlfmQH/z9te5k0r0bgLrUe0Ekj8uWRp88/+R5xEQPg=
+bitbucket.org/rj/assert v0.0.0-20180921173725-81923a7f0f2a/go.mod h1:561B5HwsWw8RJrd6L9eyFKt7n+0B7lyreF6WJDz6hNM=
+bitbucket.org/rj/goey v0.0.0-20190201215322-ef3e778e1b0e h1:k6yEwdtrrpCBuTWyJ22A7BUdH/2sdfrD4m4Fais7Kpc=
+bitbucket.org/rj/goey v0.0.0-20190201215322-ef3e778e1b0e/go.mod h1:8Lh1Jqh+kvZ/CmtqqurK2g8Qny9r2WmSm+7EtkswZpQ=
+github.com/gotk3/gotk3 v0.0.0-20190620081259-6dcdf9e5c51e h1:KFy3swDjmbaSAE6b1iExIgsYt0OkfoLP3HjLm4ifSR8=
+github.com/gotk3/gotk3 v0.0.0-20190620081259-6dcdf9e5c51e/go.mod h1:Eew3QBwAOBTrfFFDmsDE5wZWbcagBL1NUslj1GhRveo=
+github.com/lxn/win v0.0.0-20190618153233-9c04a4e8d0b8 h1:Pc9Zy7abNYw7nYW2c/XbLSRUq8Fu6+bnUvDNf2v7g30=
+github.com/lxn/win v0.0.0-20190618153233-9c04a4e8d0b8/go.mod h1:oO6+4g3P1GcPAG7LPffwn8Ye0cxW0goh0sUZ6+lRFPs=
+github.com/mattn/go-mjpeg v0.0.0-20180621123927-a9cedbfd1cd8 h1:hb2WFT1PoVyMgQSJw50lpyI7nn5mFaEFb5YNwHtHqwA=
+github.com/mattn/go-mjpeg v0.0.0-20180621123927-a9cedbfd1cd8/go.mod h1:rDjxFni8yWleK07pfsUU6KpqrsRuv6XWEfRWwjzVnrk=
+golang.org/x/image v0.0.0-20190703141733-d6a02ce849c9 h1:uc17S921SPw5F2gJo7slQ3aqvr2RwpL7eb3+DZncu3s=
+golang.org/x/image v0.0.0-20190703141733-d6a02ce849c9/go.mod h1:FeLwcggjj3mMvU+oOTbSwawSJRM1uh48EjtB4UJZlP0=
+golang.org/x/sys v0.0.0-20190626221950-04f50cda93cb h1:fgwFCsaw9buMuxNd6+DQfAuSFqbNiQZpcgJQAgJsK6k=
+golang.org/x/sys v0.0.0-20190626221950-04f50cda93cb/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
+golang.org/x/text v0.3.0/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
